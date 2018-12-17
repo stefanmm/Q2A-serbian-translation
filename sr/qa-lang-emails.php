@@ -70,7 +70,7 @@ return array(
 	'to_handle_prefix' => "^,\n\n",
 
 	'u_registered_body' => "Novi korisnik je registrovan kao ^u_handle.\n\nKlikni ispod da vidiš profil korisnika:\n\n^url\n\nHvala,\n^site_title",
-	'u_registered_subject' => '^site_title ima novo korisnika',
+	'u_registered_subject' => '^site_title ima novog korisnika',
 	'u_to_approve_body' => "Novi korisnik je registrovan kao ^u_handle.\n\nKlikni ispod da odobriš korisnika:\n\n^url\n\nKlikni ispod da vidiš sve korisnike koji čekaju odobrenje:\n\n^a_url\n\nHvala,\n^site_title",
 
 	'u_approved_body' => "Možeš videti svoj novi profil ovde:\n\n^url\n\nHvala,\n^site_title",
