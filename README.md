@@ -1,6 +1,6 @@
 # Q2A-Serbian
 
-Serbian transalations for the Question2Answer System v1.8
+Serbian (latin) transalations for the Question2Answer System v1.8
 
 ## To-do
 
