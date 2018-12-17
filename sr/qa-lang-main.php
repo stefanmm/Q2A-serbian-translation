@@ -61,7 +61,7 @@ return array(
 	'comment_edited' => 'komentar je izmenjen',
 	'comment_moved' => 'komentar je premešten',
 	'comment_reshown' => 'komentar je ponovo prikazan',
-	'commented' => 'komentarisano',
+	'commented' => 'komentarisao',
 	'date_day_min_digits' => 1, // 1 or 2
 	'date_format_other_years' => '^day, ^month, ^year',
 	'date_format_this_year' => '^day. ^month',
