@@ -166,7 +166,7 @@ return array(
 	'search_button' => 'Pretraži',
 	'search_explanation' => 'Unesi nekoliko reči za pretragu pa probaj ponovo.',
 	'search_title' => 'Rezultati pretrage',
-	'selected' => 'izabrano',
+	'selected' => 'izabrao',
 	'send_button' => 'Pošalji',
 	'since_x' => 'od ^',
 	'suggest_ask' => 'To je sve za sada. ^1Postavi novo pitanje^2.',
