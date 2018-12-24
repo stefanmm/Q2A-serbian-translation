@@ -158,7 +158,7 @@ return array(
 	'related_qs_title' => 'Slična pitanja',
 	'remove_favorites' => 'Ukloni iz omiljnih',
 	'remove_x_favorites' => 'Ukloni ^ iz omiljnih',
-	'reopened' => 'ponovo otvoreno',
+	'reopened' => 'ponovo otvorio',
 	'reshown' => 'ponovo prikazao',
 	'results_for_x' => 'Rezultati pretrage za ^',
 	'retagged' => 'ponovo označeno',
