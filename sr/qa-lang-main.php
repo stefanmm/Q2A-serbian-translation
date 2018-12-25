@@ -78,7 +78,7 @@ return array(
 	'date_month_11' => 'Nov',
 	'date_month_12' => 'Dec',
 	'date_year_digits' => 4, // 2 or 4
-	'edited' => 'izmenjeno',
+	'edited' => 'izmenio',
 	'email_error' => 'Desila se greška prilikom slanja mail-a.',
 	'field_required' => 'Unesi nešto u ovo polje',
 	'file_upload_limit_exceeded' => 'Fajl je prevelik',
