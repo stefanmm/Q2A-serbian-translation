@@ -117,7 +117,7 @@ return array(
 	'remove_avatar' => 'Ukloni profilnu sličicu:',
 	'reset_title' => 'Resetuj zaboravljenu lozinku',
 	'save_profile' => 'Sačuvaj profil',
-	'save_user' => 'Saluvaj korisnika',
+	'save_user' => 'Sačuvaj korisnika',
 	'send_confirm_button' => 'Pošalji link za potvrdu',
 	'send_reset_button' => 'Pošalji email za resetovanje lozinke',
 	'send_reset_note' => 'Poruka sa instrukcijama će biti poslata na tvoju email adresu.',
