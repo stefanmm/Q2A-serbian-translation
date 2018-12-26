@@ -77,7 +77,7 @@ return array(
 	'close_q_popup' => 'Onemogući dodavanje odgovora od ovog trenutka',
 	'close_reason_title' => 'Razlozi za zatvaranje pitanja, ili link do dupliranog pitanja:',
 	'closed_as_duplicate' => 'zatvori jer je duplikat ovog pitanja:',
-	'closed_with_note' => 'zatvori uz poruku:',
+	'closed_with_note' => 'Zatvoreno zbog:',
 	'comment_a_popup' => 'Dodaj komentar na ovo',
 	'comment_button' => 'Dodaj komentar',
 	'comment_limit' => 'Previše komentara je primljeno, pokušaj kroz sat vremena.',
