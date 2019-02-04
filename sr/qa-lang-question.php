@@ -29,7 +29,7 @@ return array(
 	'a_notify_label' => 'Pošalji mi email ako je moj odgovor izabran ili je dobio komentar',
 	'a_notify_x_label' => 'Obavesti me na email (^) ako je moj odgovor izabran ili je dobio komentar',
 	'a_waiting_your_approval' => 'Ovaj odgovor čeka na tvoje odobrenje',
-	'a_your_waiting_approval' => 'Tvoj odgovor će biti priveren i odobren uskoro.',
+	'a_your_waiting_approval' => 'Tvoj odgovor će biti proveren i odobren uskoro.',
 	'add_answer_button' => 'Dodaj odgovor',
 	'add_comment_button' => 'Dodaj komentar',
 	'add_q_favorites' => 'Dodaj ovo pitanje u moje omiljene',
